@@ -26,8 +26,8 @@ cd libpcap-1.8.1
 make
 make install
 
-git clone https://github.com/tanggengyao1/leida.git
-cd leida/
+git clone https://github.com/wdqq781088558/PUBGlige.git
+cd PUBGlige/
 npm i
 npm i -g pino
 npm install -g forever
